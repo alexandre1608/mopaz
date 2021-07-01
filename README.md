@@ -8,4 +8,6 @@
 
 <h3>Luciana Neves Maurício</h3>
 
+<h3>Davi Mendes Nogarotto</h3>
+
 </ul>
